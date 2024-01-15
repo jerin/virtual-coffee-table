@@ -1,0 +1,16 @@
+{
+  "name": "websocketserver",
+  "version": "1.0.0",
+  "private": true,
+  "description": "To broadcast websocket messages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jerin",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0",
+    "ws": "^8.11.0"
+  }
+}
