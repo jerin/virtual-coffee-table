@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useState } from "react";
-import ClientService from "./services/ClientService";
+import ClientService from "../services/ClientService";
 
 const ClientInfo = ({ handleHtmlChange, info, currentUser }) => {
   const [address, setAddress] = useState("");
