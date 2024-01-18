@@ -1,6 +1,6 @@
 # virtual-coffee-table
 virtual coffee table discussion
-# 1)Steps: execute the following commands in folder cmd
+## 1)Steps: execute the following commands in folder cmd
 1)	UI client (Reactjs)
 1) npm install
 2) npm start
