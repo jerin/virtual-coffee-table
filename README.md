@@ -1,22 +1,22 @@
 # virtual-coffee-table
 virtual coffee table discussion
-## 1)Steps: execute the following commands in folder cmd
+### 1)Steps: execute the following commands in folder cmd
 1)	UI client (Reactjs)
 1) npm install
 2) npm start
 
-# 2)	Websocket  server(Nodejs, websocket server)
+### 2)	Websocket  server(Nodejs, websocket server)
 Steps: execute the following commands in folder cmd
 1)	npm install
 2)	npm start
 
-# 3) Rest api server(Nodejs, expressjs and postgresql)
+### 3) Rest api server(Nodejs, expressjs and postgresql)
 Steps: execute the following commands in folder cmd
 1)	Change the database credentials
 2)	npm install
 3)	npm start
 
-# 4) Use case
+### 4) Use case
 Steps: Follow the steps to view the output of collaborative form filling on virtual coffee table 
 1) Open browser at http://localhost:3000/ to view the application
 2) Login as “Agent”
